@@ -3,4 +3,6 @@
 
 An attempt to model the interplay between police presence in high crime areas, and the destablization of neighboring sites.
 
-
+|![](violence.png)|
+|:--:| 
+| Recursively defined reward system for training a cartpole agent |
